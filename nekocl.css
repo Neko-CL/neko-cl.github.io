@@ -42,16 +42,3 @@ body {
 a {
 	color:white;
 	}
-
-.scrollbar {
-                height: 20px;
-                overflow: hidden;
-                position: relative;
-                background: #fefefe;
-                color: #333;
-		white-space:nowrap;
-		margin:3px;
-		background-color:#1e1e1e;
-		color:white;
-		border-radius:5px;
-            }
