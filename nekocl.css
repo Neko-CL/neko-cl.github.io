@@ -1,13 +1,18 @@
 .sidebar {
 	margin:20px;
 	height:100%;
-	width:92px;
+	width:auto;
 	z-index:1;
 	top:0;
 	left:0;
 	background-color:#111;
 	color:white;
 	float:left;
+	border-radius:15px;
+	padding-left:8px;
+	padding-top:8px;
+	padding-right:8px;
+	padding-bottom:8px;
 }
 
 .block {
@@ -36,7 +41,7 @@ img {
 }
 
 body {
-	background-color: #b7ba9b;
+	background-color:#818589;
 }
 
 a {
